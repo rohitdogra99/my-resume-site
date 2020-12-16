@@ -1,0 +1,50 @@
+body{
+    
+
+    
+}
+
+h3,h5,h6,h4 {
+    font-family: "Montserrat-Bold";
+}
+
+.top-container {
+    background-color:#e2f0f0;
+    padding: 0% 4%;
+    text-align: center;
+    margin:auto;
+}
+
+.contact-section {
+    padding: 1% 4%;
+    text-align: center;
+}
+
+.row {
+    
+    padding: 2% 4%;    
+    margin:auto;
+    
+}
+
+.skills {
+    margin-left: 20px;
+    
+}
+
+.skill {
+    display: flex;
+}
+
+.star{
+    color: yellow;
+}
+
+.ratings {
+    text-align: right;
+    margin-left: 100px;
+}
+
+.skill-2 {
+    width: 30%
+}
